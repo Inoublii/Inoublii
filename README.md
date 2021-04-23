@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafed inoubli I'm a Software engineering student at Holberton School<br><br>
 - 👀 I have been studying low-level programming, high-level programming, system engineering & devops, and web stack programming (Front-end & Back-end)<br><br>
-- 🌱 I’m currently learning: <br><br>
+-<h2> 🌱 I’m currently learning:</h2> <br><br>
  <a href="https://github.com/inoublii/holbertonschool-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
